@@ -1,0 +1,993 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Overture regulating the breadth and length of linnen. To His Grace James Duke of Queensberry Marquis of Dumfries-Shire, Earl of Drumlanrick, and Sancher, &amp;c. His Majesty's High Commissioner to the Parliament of Scotland, and most honourable Estates of Parliament.</title>
+            <author>Donaldson, James, fl. 1697-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02737</idno>
+            <idno type="STC">Wing D1853B</idno>
+            <idno type="STC">ESTC R174694</idno>
+            <idno type="EEBO-CITATION">52612122</idno>
+            <idno type="OCLC">ocm 52612122</idno>
+            <idno type="VID">179403</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02737)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179403)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2787:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Overture regulating the breadth and length of linnen. To His Grace James Duke of Queensberry Marquis of Dumfries-Shire, Earl of Drumlanrick, and Sancher, &amp;c. His Majesty's High Commissioner to the Parliament of Scotland, and most honourable Estates of Parliament.</title>
+                  <author>Donaldson, James, fl. 1697-1713.</author>
+                  <author>Queensberry, James Douglas, Duke of, 1662-1711.</author>
+               </titleStmt>
+               <extent>32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Reid</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Ja: Donaldson.</note>
+                  <note>Imperfect: stained, tightly bound with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Linen industry --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179403:1" rendition="simple:additions"/>
+            <pb facs="tcp:179403:1"/>
+            <pb facs="tcp:179403:2" rendition="simple:additions"/>
+            <pb facs="tcp:179403:2"/>
+            <pb facs="tcp:179403:3"/>
+            <pb facs="tcp:179403:3"/>
+            <p>OVERTURE Regulating the Breadth and Length of LINNEN: To His Grace JAMES Duke of QUEENSBERRY Marquiſs of <hi>Drumfries</hi>-Shire, Earl of <hi>Drumlanrick,</hi> and <hi>Sancher, &amp;c.</hi> His Majeſty's High Com<g ref="char:EOLhyphen"/>miſſioner to the Parliament of SCOTLAND, and Moſt Ho<g ref="char:EOLhyphen"/>nourable Eſtates of Parliament.</p>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by <hi>John Reid,</hi> 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:179403:4"/>
+            <pb facs="tcp:179403:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:179403:5"/>
+            <pb facs="tcp:179403:5"/>
+            <head>AN OVERTURE, Annent Regulating the BREADTH and LENGTH of LINNEN.</head>
+            <head type="sub">To His Grace <hi>JAMES</hi> Duke of <hi>Q<g ref="char:V">Ʋ</g>EENSBERRY,</hi> His Ma<g ref="char:EOLhyphen"/>jeſty's High Commiſſioners to the Parliament of SCOT<g ref="char:EOLhyphen"/>LAND, and Moſt Honour<g ref="char:EOLhyphen"/>able Eſtates of Parliament.</head>
+            <p>THE Sovereign Governour of the Univerſe, and inexhauſt<g ref="char:EOLhyphen"/>able Fountain of all Perfecti<g ref="char:EOLhyphen"/>on, has been pleaſed to Cloath Your Grace with a Conſiderable Ray of His Power and Greatneſs; For<g ref="char:EOLhyphen"/>aſmuch as, you Repreſent the Perſon and Authority of one of the moſt Auguſt,
+<pb n="4" facs="tcp:179403:6"/>Magnanimous and Potent Monarchs in the World; which is a Dignity no leſs be<g ref="char:EOLhyphen"/>coming ſo Great a Perſonage. Deſcend<g ref="char:EOLhyphen"/>ed of ſo Illuſtrious Progenitors, whoſe Magnanimous and Heroick perform<g ref="char:EOLhyphen"/>ance make up a conſiderable part of our Hiſtories; than the Moderation, Affi<g ref="char:EOLhyphen"/>bility and other ſingular Accompliſh<g ref="char:EOLhyphen"/>ments of your Perſon, from whence we expect ſuch ſpecial Acts of your Bene<g ref="char:EOLhyphen"/>volence, Goodneſs and Prudence, in your Conduct on this Occaſion, as may be laſting Bleſſings to this poor Nation, and Emblam your Name to Poſterity; For as 'tis the property of the Fountain of all Goodneſs to take pleaſure in Acts of Goodneſs and Bounty, ſo it is the Glory and Happineſs of Mortals to i<g ref="char:EOLhyphen"/>mitate Him as much as poſſible, and the greater they are in Power and Au<g ref="char:EOLhyphen"/>thority ſo much more are they Capable of Acts of Benovolence; And your Grace being now in ſo Eminent a Sta<g ref="char:EOLhyphen"/>tion, has a fair Opportunity of doing much towards the Wellfare and proſ<g ref="char:EOLhyphen"/>perity
+<pb n="5" facs="tcp:179403:6"/>of this Kingdom, and there<g ref="char:EOLhyphen"/>by to add a Gem to the Diadems of Glo<g ref="char:EOLhyphen"/>ry purchaſed by your Anceſtors, and E<g ref="char:EOLhyphen"/>ternize your Name to following Gene<g ref="char:EOLhyphen"/>rations.</p>
+            <p>And you the Honourable Eſtates of Parliament from all Corners of the King<g ref="char:EOLhyphen"/>dom being now Aſſembled, cannot but be well acquainted, and ſenſibly touch<g ref="char:EOLhyphen"/>ed with the preſent Circumſtances thereof, and conſequently underſtand how to Regulate Matters, ſo as the preſent miſeries of the ſame may be in a great Meaſure removed; Wherefore it may ſeem preſumptious for a Perſon in my Circumſtances to offer any thing to your Wiſdomes Conſideration for that end. Nevertheleſs when 'tis con<g ref="char:EOLhyphen"/>ſidered, that a Finger or a Toe may be as ſenſibly affected with the Diſtemper of the Body as one Eye or Arm, and that a Mean Perſon may diſcry ſome<g ref="char:EOLhyphen"/>thing worthy to be noticed by the Greateſt, which through the Multipli<g ref="char:EOLhyphen"/>city of other important Affairs, may
+<pb n="6" facs="tcp:179403:7"/>be by them overlook'd; your Wiſdom will Conſtruct favourably of this un<g ref="char:EOLhyphen"/>dertaking, eſpecially ſeing the ſole Mo<g ref="char:EOLhyphen"/>tive hereunto inducing me, can bea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no other Interpretation then my hearty deſires to ſee the proſperity of this poo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Nation, being exceedingly concerned to behold the diſtreſſed Condition it is in at preſent, and has formerly expreſ<g ref="char:EOLhyphen"/>ſed my good wiſhes for the publick Good, not only to the hazard, but to the loſs of my ALL, as is not altogethe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unknown to ſome of the Honourable Members of this Auguſt Aſſembly, of which I might give a hint, if Your Wiſe<g ref="char:EOLhyphen"/>doms would have the patience to hear, &amp; the Goodneſs to notice, both as to what I did in the Equipment of Men for his Majeſty's Service, about the time of his Acceſſion to the Throne, and other Services; As well as the Expence I have been at of late, in forming ſome Over<g ref="char:EOLhyphen"/>tures into writing, and puting the ſame to the Preſs, meerly for the Publick Good, which tho it be but ſmall, is
+<pb n="7" facs="tcp:179403:7"/>much to a poor Man, and two Mi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> from a poor Widaw is accounted great<g ref="char:EOLhyphen"/>er Charity, than much Treaſure from the Rich.</p>
+            <p>But that I may come to the Matter purpoſed, and be no farther tideous by a prolix Introduction; I humbly con<g ref="char:EOLhyphen"/>ceive it were not unworthy of your Wiſ<g ref="char:EOLhyphen"/>doms Conſideration, to think on ſome means for Regulating the Breadth and Length of our Linnen, which at preſent is ſo irregular, and for the moſt part ſo narrow, that it doth in a great Meaſure marr Traffick, and is unfit for many uſes.</p>
+            <p>The Length of our Linnen is com<g ref="char:EOLhyphen"/>monly from 7 or 8 ellns to 10 or 12 a Piece, as many of them, with odd ha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Yairds as of an even Meaſure, and theſe too often made up by tareing of an hand<g ref="char:EOLhyphen"/>breadth or two off one that is over, to make up another that is ſhort; And the Breadth from an Eln to 3 Quarters of an Eln ſo that when the ſame is of<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ered to Sale in any place except <hi>England</hi>
+               <pb n="8" facs="tcp:179403:8"/>and <hi>Ireland,</hi> where the Merchants are prety well acquainted with thoſe irre<g ref="char:EOLhyphen"/>gular Meaſures, ſca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce will a Mer<g ref="char:EOLhyphen"/>chant give more for the longeſt than the ſhorteſt Piece, or for the Broad than the narrow, being unacquainted with Calculating ſuch irregular Meaſures, all other Nations making each ſort of their Linnen at a certain Length and Breadth, as we may lee by the Muſel<g ref="char:EOLhyphen"/>lines, Cambricks, and Calegoes, <hi>&amp;c.</hi> Imported, each ſort or ſpecies of theſe being of a certain Length and Breadth, on which the Merchant relyes without Meaſuring, buying the ſame by the Piece. But when our Linnen is offered to Sale in Forreign Parts, the Pieces be<g ref="char:EOLhyphen"/>ing ſo irregular, there is no Barganing that way.</p>
+            <p>Perhaps without farther Tryal, ſome may object, that already a Law is made for Regulating the Breadth and Length of Linnen, but the puting of it in practice was found incommodious and Grieve<g ref="char:EOLhyphen"/>ous, for as much as, many of the Wea<g ref="char:EOLhyphen"/>vers
+<pb n="9" facs="tcp:179403:8"/>not having furniture for wor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng Cloth of that breadth could not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mply, and honeſt People having <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir Webs ſeized upon that account, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>de Complaint to their Landlords, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>epreſenting that the Price of their <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nnen being only that which was al<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ted for paying of their Rent, with<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t which they could not make pay<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent, and the ſame being taken from <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m, becauſe not of the Dementions <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſcribed by Law. The Landlords <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erpoſed, and by their Remonſtrances <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vailed to make this Law of no effect. Notwithſtanding of all which. I ſhall with Submiſſion) make it appear, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the breadth and length may be <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gulated with little or no difficulty, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the firſt place, ſhall ſhew ſome <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſiderable advantages of making the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he of a fixed length and breadth, <hi>viz,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>welve elns long, and one broad. ſo <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t when the ſame is offered to Sale, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erchants will eaſily know how to buy <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y the peice, without troubling them<g ref="char:EOLhyphen"/>ſelves
+<pb n="10" facs="tcp:179403:9"/>to calculat irregular Meaſure<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is now commonly in uſe: But the gr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſet advantage is in the breadth, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Our narrow Linnen being unfit for m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> uſes (needleſs to be Repeated) reaſon of its narrowneſs, is in a man meerly bought by the Merchants a Linnen Drepers of <hi>England</hi> to ſort their courſe Linnens, and is alm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wholly applyed for the uſe of Boys <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Children; And the meaneſt ſort Perſons of riper years, who cont<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> themſelves with it, allenerally for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cheapneſs of the ſame; Forasmuch they can buy three elns near three <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ters and an half Broad, as cheap as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> elns of that which is eln Broad, of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> like fineneſs.</p>
+            <p>This being Matter of Fact, can<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be otherwiſe proven than by the Te<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>imony of Merchants and others, a quainted in that matter, to whoſe D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> termination I refer it; And in the me<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> time ſhall make it appear, that the is no ſuch Difference in the proportion
+<pb n="11" facs="tcp:179403:9"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Yearn, of which each is made, as the Price, as is above hinted; For ſup<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſe the narrow Cloth were but three <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arters Broad, the Yearn which would <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> four elns of the one would be three <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the other, whereas oft times the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arrow Cloth is three quarters and an <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lf in Breadth, the Yearn which makes <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ght elns of this, would be ſeven of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> eln Broad; But that I may come <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aret to the true Breadth, and that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich will very near hold in all Nar<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>w Linnen, is three quarters and about <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e third part of an quarrer of an eln, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his alſo I refer to the Judgement and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etermination of all acquainted in that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ffair; And here I fix the Breadth in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eneral, and from thence ſho<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l Calcul<g ref="char:EOLhyphen"/>ite the Difference, adhereing alwiſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> my firſt Aſſertion. <hi>Viz.</hi> That Lin<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n of an eln Broad, will give a third more than that of the Ordinar Breadth, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at is to ſay, if the Narrow give 10 <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence, the Broad will give 15, and if <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Narrow give 12, the other will
+<pb n="12" facs="tcp:179403:10"/>give 18 at leaſt, <hi>&amp;c.</hi> Whatever Price is of, yea, I may affirm that 12 <abbr>
+                  <hi>d.</hi>
+               </abbr> Clo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Narrow, wil of the ſame fineneſs give <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <abbr>
+                  <hi>d.</hi>
+               </abbr> if eln Broad, even tho it were an in<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> leſs; Nevertheleſs I ſhall reckon t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Difference, as 18 to 12, and pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ceed to Calculate the Difference of t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Proportion of Yearn, of which ea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is made, which being as 10 to 12, for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> elns of Cloath at 3 Quarters and thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> part of a quarter, doth exactly agr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to ten ells of one eln in Breadth. Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Price of 12 ells Narrow is 12 <hi>Shillin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and the Price of ten elns eln Broad, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 15 <hi>Shillings,</hi> according to the form Suppoſition, which is one 4th pa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> more than what it would give of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dinar Breadth.</p>
+            <p>Perhaps ſome may ſay, if there w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſuch Difference in the Price of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Broad? and Narrow Cloth, why doth not People make all their Linnen el<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Broad. If this objection be ſuſtaine<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 100 ſuch may be brought in, As fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> inſtance, if the <hi>Datch</hi> who leave ſome
+<pb n="13" facs="tcp:179403:10"/>hundreds of miles from our Coaſts, find profit in ſending Buſſes hither to the Her<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing Fiſhing: How comes it to paſs that our own People who need loſs little or no Time in going to and coming from the the place where the Herrings are to be Caught; And in the time of Storm or Tempeſt may be Livering and Repacking of their Herrings aſhore, when the other <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Oblieged to ly by. And can mantain <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iſhers and Other Perſons imployed for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alting and Packing, <hi>&amp;c.</hi> at eaſier rates than the <hi>Dutch</hi> can, Doth not find it their Intereſt to Apply themſelves to ſuch <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> profitable Labour? together with many <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch <hi>Queries,</hi> to which no <hi>Anſwer</hi> can be given; Beſides the Folly and Ignorance of theſe who neglect it: Nevertheleſs I ſhal give <hi>two Reaſons</hi> why I judge people <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eglect to make their <hi>Cloath eln broad; The firſt is,</hi> From a Fault in the <hi>VVeav<g ref="char:EOLhyphen"/>ers,</hi> who uſually exact twice as much for working Linnen of an eln Broad as for that which is Narrow of the ſame Finneſs; The Reaſons they give
+<pb n="14" facs="tcp:179403:11"/>for this unreaſonable price, Are, tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they not being uſually Employed t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> work Cloath of that Breadth, The<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> want Reeds, and other Furniture fit <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> working the ſame; And when they a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> oblieged to provide ſuch Furniture up<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> on ſpecial Occaſions, they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndeavour t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> make the profit of their Labour Re<g ref="char:EOLhyphen"/>compence that Expence; They like wife ſay, that Cloth of this Breadt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> requiring the extending of their Arm<g ref="char:EOLhyphen"/>ſurther than Ordinar, to drive throug<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Shuttle, they are thereby muc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Fatigued, tho others who mak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a daily practice of Working Cloth <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that Breadth, find themſelves no way<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thereby Incommoded, as I have hea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> from ſeveral of themſelves. And ha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> farther declared, that they would ſcar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Reckon any Difference between Work<g ref="char:EOLhyphen"/>ing Cloth of an eln Broad, and tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which is near one Quarter Narrower<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> However it be, this Extravagant pric<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for Working, being a ſenſible Deburſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ment to the Employer, and moſt of People
+<pb n="15" facs="tcp:179403:11"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or having Judgement to Calculate ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctly the Difference of the price of their Broad and Narrow Linnen, with Re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pect to the quantity of Yearn, of which it is Compoſed, Generally believing that whatever the Price of the Broad may exceed that of the Narrow, a proporti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nable quantity of Yearn is required of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he one more than the other, and if <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here be any odds at all, the double <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rice of Working the Brodeſt, doth at <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſt caſt the Ballance.</p>
+            <p>The other Reaſon is, Merchants not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nding Broad Cloth ordinarly in the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ercats, lay their Account with buying <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at which is Narrow, and in a manner Confine themſelves to ſuch ſorts of Lin<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n as they can uſually find; And on <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e other hand, the Linnen Drepers in <hi>England,</hi> which are in a manner the ſole Merchants for that Comodity, laying their Account with no other ſorts of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>innen from this Countrey, than what they have hitherto been in uſe to get <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om hence, do provide themſelves in
+<pb n="16" facs="tcp:179403:12"/>theſe ſorts of courſe Linnen from <hi>Ham<g ref="char:EOLhyphen"/>burg,</hi> and other Foreign Places, which we cannot affoord, and buy ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Linne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> only to ſort themſelves with ſome Nar<g ref="char:EOLhyphen"/>row for the uſe of Boys and Children and the Meaner ſort of People.</p>
+            <p>Now upon the former Suppoſition (which I hope all known in that affai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will grant) that two elns of eln Broa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Cloth, will yield as much Money, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> three of the Common Breadth, provid<g ref="char:EOLhyphen"/>ed they are both of alike Fineneſs, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> has been ſhewed, one fourth part more Money may be had for the ſame quanti<g ref="char:EOLhyphen"/>ty of Yarn, which would be 12 Elns Nar<g ref="char:EOLhyphen"/>row if it were made Broad, that is to ſay 100 lib: Sterling worth Narrow Cloth, would be worth 125 llb: had the ſame Yearn been made in Linnen of an El<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Broad. And ſome think the whole Lin<g ref="char:EOLhyphen"/>nen Cloth Exported from this Kingdom yearly, may be between 2 and 300000 lib. Sterling in value; but let us reſtrict it only to 200000, the ſame being made in Broad Cloth would yeild
+<pb n="17" facs="tcp:179403:12"/>250000 lib. But becauſe it may be al<g ref="char:EOLhyphen"/>ledged, that ſome of our Linnen is actually Eln Broad, and Conſequently will yeild no more than it doth at pre<g ref="char:EOLhyphen"/>ſent, tho the reſt were made of the ſame Breadth likewiſe; For this I ſhall allow a 5th part to be deduced off<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e 50000 lib: ſuppoſed to be produced by mak<g ref="char:EOLhyphen"/>ing all our Linnen Eln Broad, more than what it yeilds at preſent; ſo the profit hereby ariſing will be but 40000 lib. yearly, yet when tis conſidered, that the <hi>Engliſh</hi> and Forreign Cuſtoms are exacted by the Eln; not only ſo much of theſe Cuſtoms will be ſaved as the Broad Cloth doth exceed the Nar<g ref="char:EOLhyphen"/>row in proportion, which is a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th part, but likewiſe the value of the Broad being a 3d part more than the Narrow according to the number of elns; Whatever the Broad Cloth is bet<g ref="char:EOLhyphen"/>ter than the Narrow bulk, for bulk, (which has been already reckoned,) one 4th part of the value of the Narrow; So much of the Capital S<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>k payeth
+<pb n="16" facs="tcp:179403:13"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="17" facs="tcp:179403:13"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="18" facs="tcp:179403:14"/>neither Cuſtom nor any other Charg which will at leaſt over-balance, that can be deduced upon Accoun<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Broad Cloth at preſented expor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo that 50000 lib: will ſtill be m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> more yearly than it now yeilds.</p>
+            <p>To clear this a little further, I ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuppoſe a Merchant to buy 1200 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Linnen of the ordinar Breadth, 12 <hi>ſh. per</hi> eln, and a thouſand elns Broad, at 18 <hi>Pence per</hi> eln, the Yet of which they are made being alike both, conſequently there's no Differe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the bulk or Weight of both parc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Expence of Carriage or Tranſpo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tion, and other Charges will be a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in both parcels, ſave only that of C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ome, which is exacted by the eln, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in this the Goods of the leaſt val<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bear the greateſt Expence, <hi>Viz.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> being entered at any Cuſtome Of in <hi>England,</hi> the Narrow Cloth p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 2400 <hi>Pence,</hi> and the Broad only t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Thouſand, or if the duty be leſs more, doth not weaken it the Argume<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> his only being ſuppoſed for a Dem<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſtration,
+<pb n="19" facs="tcp:179403:14"/>(as is likewiſe the value of the whole Lennen exported) grant him to Sell the Narrow at 15 <hi>ſh:</hi> the Broad at an equi<g ref="char:EOLhyphen"/>volent advance, will yield 22 <hi>Pence</hi> half penny <hi>per</hi> eln. Off 75 <abbr>
+                  <hi>l.</hi>
+               </abbr> 2 <hi>
+                  <abbr>d.</abbr> per</hi> eln being deduced for Cuſtom, (as for other Charges 'tis needleſs to reckon, ſeing 'tis only in this, the Broad and Narrow Cloth differ) there remains 65 <hi>Lib:</hi> which coſt at firſt buying 60, where<g ref="char:EOLhyphen"/>fore the whole profit made of this par<g ref="char:EOLhyphen"/>cel is 5 <hi>lib:</hi> Whereas the 1000 elns of Broad Cloth at 22 <abbr>
+                  <hi>d.</hi>
+               </abbr> half penny <hi>per</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, yeilds 93 <abbr>
+                  <hi>l:</hi>
+               </abbr> 13 <abbr>
+                  <hi>ſh</hi>
+               </abbr> 4 <abbr>
+                  <hi>d,</hi>
+               </abbr> from whence deduce 2000 <hi>Pence</hi> of Cuſtom<g ref="char:punc">▪</g> which is 8 <abbr>
+                  <hi>lib:</hi>
+               </abbr> 6 <abbr>
+                  <hi>ſh.</hi>
+               </abbr> 8 <abbr>
+                  <hi>d.</hi>
+               </abbr> there remains 85 <abbr>
+                  <hi>lib:</hi>
+               </abbr> 8 <abbr>
+                  <hi>ſh:</hi>
+               </abbr> 4 <abbr>
+                  <hi>d.</hi>
+               </abbr> from which Subſtract 75 <abbr>
+                  <hi>lib:</hi>
+               </abbr> which was the price given for it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t firſt, there remains 10 <abbr>
+                  <hi>lib.</hi>
+               </abbr> 8 <abbr>
+                  <hi>ſh.</hi>
+               </abbr> 4 <abbr>
+                  <hi>d.</hi>
+               </abbr> which is 5 <abbr>
+                  <hi>lib.</hi>
+               </abbr> 8 <abbr>
+                  <hi>ſh.</hi>
+               </abbr> 4 <abbr>
+                  <hi>d.</hi>
+               </abbr> more profit than what the other parcel doth produce, ſo much more doth this parcel give Abroad <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>han the other, which becauſe it ſtands the Merchant dearer than the parcel of Nar<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow, cannot be Reckoned all Gain to him;
+<pb n="20" facs="tcp:179403:15"/>becauſe heought to have profitproportio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>able to his Stock beſtowed, yet it is a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> clear Gain to the Kingdom, for out of thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> parcel of Yarn which would hav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> been but 1200 elns of Narrow Linne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and would have vielded no more tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> what is Reckoned in the other parcel Yet the ſame being made in Cloth o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> an eln Breadth, yields to the Selle<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> here 15 <abbr>
+                  <hi>lib:</hi>
+               </abbr> more then it would hav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> done in Narrow, beſides 5 <abbr>
+                  <hi>lib:</hi>
+               </abbr> 8 <abbr>
+                  <hi>ſh.</hi>
+               </abbr> 4 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Abroad to the Merchant, the Expenc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Cuſtoms being deduced of both from whence 'tis plain that a quantity of Yarn which would make 60 <abbr>
+                  <hi>Lib<g ref="char:punc">▪</g>
+                  </hi>
+               </abbr> worth of Narrow Linnen, will yield 8<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <abbr>
+                  <hi>lib;</hi>
+               </abbr> 8 <abbr>
+                  <hi>ſh:</hi>
+               </abbr> 4 <abbr>
+                  <hi>d.</hi>
+               </abbr> when made in Broad, thu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Saving of part of Forreign Cuſtoms and the other advantages ariſing from making of Our Linnen eln Broad, will do more than Compence all that was deduced upon account of a 5th. part o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our Linnen, being granted to be e<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Broad, And for that Reaſon could b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no farther in that Reſpect improven.</p>
+            <p>
+               <pb n="21" facs="tcp:179403:15"/>
+But beſides all this, there would be great Advantage many ways by making of our Linnen of a fixed Length, becauſe we could then fell it to Advantage in Forreign Parts, and get in Exchange theſe Goods at firſt hand, which we oft times buy at the ſecond with ready Money; neither would we need to de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>end ſo much upon <hi>England</hi> for vend<g ref="char:EOLhyphen"/>ing of it, which is without doubt, out Wiſdom, ſeeing they are taking all poſ<g ref="char:EOLhyphen"/>ſible meaſures to diſcourage our Lin<g ref="char:EOLhyphen"/>nen Trade, not only by encouraging Linnen Manufactures in <hi>Ireland</hi> (which are already come a great length,) and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>utting off our Traffick thither by im<g ref="char:EOLhyphen"/>ppſing an Exorbitant Duty upon Lin<g ref="char:EOLhyphen"/>nen Imported to that Kingdom, But al<g ref="char:EOLhyphen"/>to have laid an Additional Impoſition upon our Linnen Imported to <hi>England,</hi> and are at preſent ſupplied in a great Meaſure with Courſe Linnen Yarn from <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eland,</hi> which formerly they uſed to get from hence, for making of Buttons Gimps and Buſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ines, <hi>&amp;c.</hi> From a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="22" facs="tcp:179403:16"/>which it may be eaſily perceived, that the Regulating of the Breadth and Length of Linnen is very neceſſary and Con<g ref="char:EOLhyphen"/>venient: But in reſpect it falls ofte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out, that good Laws are not punctually put in Execution; It will be neceſſary that your Wiſdoms do not only Reviv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> former Laws Determining the Breadt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Length of Linnen, but alſo that ef<g ref="char:EOLhyphen"/>fectual Meaſures may be taken for put<g ref="char:EOLhyphen"/>ing the ſame in Execution, and for tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> end, with all humility, I ſhall offer th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> following Overtures.</p>
+            <p>
+               <hi>Firſt,</hi> That there be timely warning given at the Merkat-Croſſes an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Church-Doors, ſo that the Weave<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may have full time to work out all th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Webs that they have already Warpe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> before the Act begin to be put in Ex<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cution, ſo that they may have no pre<g ref="char:EOLhyphen"/>text of making Narrow Cloth after th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> time perfixt.</p>
+            <p>
+               <hi>Secondly,</hi> A Month or ſix Weeks be<g ref="char:EOLhyphen"/>fore this Law begin to take Effect, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Heritors or Chief Farmers in ever<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="23" facs="tcp:179403:16"/>Paroch be appointed to Meet and Con<g ref="char:EOLhyphen"/>deſcend on ſome of their Number to take a Cirquiet through their ſeveral Quarters, to ſee whether the Weavers have provided Reeds and other Furni<g ref="char:EOLhyphen"/>ture fit for working of Eln Broad Lin<g ref="char:EOLhyphen"/>nen, and where they find any Reeds, Hiddles or Shafts for Working of Lin<g ref="char:EOLhyphen"/>nen, that are not of ſuch a Length as may work Cloth of an Eln Broad, let the ſame be ſiezed, burnt and deſtroy<g ref="char:EOLhyphen"/>ed.</p>
+            <p>
+               <hi>Thirdly,</hi> At every Brugh Royal and Merkat-Town, let there be a Perſon appointed fot taking Inſpection of all Cloth offered to Sale, and to put a mark or ſtamp on each Piece which is of the Dementions preſcribed, and all Cloth that is offered to Sale without this mark, to be ſiezed without reſpect of Perſons, the Owner to Forfeit the Cloth, and the Weaver that Wrought it, to loſs the price of Working, and the party to have Reparation of him, if the ſame is already paid.</p>
+            <p>
+               <pb n="24" facs="tcp:179403:17"/>
+Fourthly, That there be ſome p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſons impowred by the Government, break open all Packs of Linnen offe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be Exported, and if any Cloth <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> found therein not marked by ſome the ſaid Perſons for that end appoint<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to ſeize and Confiſcat the ſame.</p>
+            <p>And further, perhaps it may not improper, in part to determine the pri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of Working or Weaving e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>road Li<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nen; Forasmuchas, the Unreaſona<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> exaction of Weavers is no ſmal hind<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ance to the Working of Broad Clot<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon the pretences above mentioned. If therefore it ſhould be ordained th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Weavers ſhould exact no more <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Working of eln Broad Cloth, than th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> uſed to do, for the like quantity of Y<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in Narrow, and Bailies of Burghs, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Juſtices of Peace to determine wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> any Contriverſy ſhall happen. This <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be no ways Unreaſonable, for no rea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> can be given, ſhewing that three elns eln Broad Cloth will require more Labo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> than to work 4 Elns 3 Quarters Broa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="25" facs="tcp:179403:17"/>but one might rather think that 3 Elns of Broad Cloth would require leaſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>abour. Neither will it be any conſi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erable Hardſhip for Weavers to make Utenſils for working Linnen of this Breadth, for there will be no need of making of it altogether new, their Reeds and Hedles can be lengthned with great <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſe, &amp; no other Furniture will need to be changed, the Frame of their Looms being generally, if not all of them, fit for working Cloth above an eln broad.</p>
+            <p>Having thus far laid before your Grace, and the Honourable Eſtates of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arliament. what I humbly conceive may be uſeful as to the Regulating of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Breadth and Length of Linnen, I <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all with all Humility put you Wiſdoms <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> mind of a ſmall Treatiſe, Entituled, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Undoubted Art of Thriving,</hi> which offered to you a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your former meet<g ref="char:EOLhyphen"/>ing in <hi>May</hi> laſt, Wherein I hope is made <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ar, that this Nation may be greatly <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>riched, by raiſing a Fund of Credit, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the great Diſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lty of Circulating <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>otes <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Hazard of Vitiation <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> removed, I hope
+<pb n="26" facs="tcp:179403:18"/>all other Objections may be eaſily <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>pelled; Yea, I humbly conceive all <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>terial Objections are in the Book it <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo enervated, that the peruſal of t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſame will be Sufficent to convince ye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Wiſdoms, of the great advantage th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may thereby enſue to the Nation: N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vertheles, for as much as. I have hea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> two things objected againſt the ſaid p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ject, of which I took no ſpecial notice the ſaid Tretiſe. I ſhall now make a ſh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> reply to each of them.</p>
+            <p>The firſt is, How is the Nation ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ed, that ſo many of theſe Notes ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be canceled every year as is propoſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or what ſecurity has every Perſon th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may come to have right to the ſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Notes, that the ſaid project ſhall <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fail, and every man ſuſtain the loſs as much as the value of the Not<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in his poſſeſſion amount to, wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ever a ſubſequent Parliament ſhall fi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> this project inconvenient?</p>
+            <p>To this I anſwer, that for every No<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> or percel of Notes that are given o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the managers or Commiſſioners apoi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ed for that end, are to receive go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="27" facs="tcp:179403:18"/>Security from the party to whom they are given out, that he or they ſhall be furthcoming to the value, with intereſt ſo long as the ſame remains unpayed, and to take the Sufficiency of the Secu<g ref="char:EOLhyphen"/>rity upon their own Hazard; So if e<g ref="char:EOLhyphen"/>ver the Parliament ſhould think the cit<g ref="char:EOLhyphen"/>culation of the ſaid Notes inconvenient there are Sufficient Funds for paying all perſons <hi>in ſpecie,</hi> what Notes are in their Honds; But any who pleaſes to Conſider the Calculation of the expence of Circulating the ſaid Notes, as it is made in the ſaid Treatiſe, will plainly ſee, that the expence of Management comes not to above a Tenth part of the intereſt of the Notes, and therefore this Objection can never take place.</p>
+            <p>The other Objection is, That if ſuch a Project ſhould be promoted, it would be very prejudicial to the Bank, for as much as, theſe Notes would be tranſmit<g ref="char:EOLhyphen"/>ted from hand to hand, and ſupply the Room of Bank Notes.</p>
+            <p>With Submiſſion to your Wiſdoms, I cannot Homologat ſuch an Opinion, having alwiſe looked upon the Scar<g ref="char:EOLhyphen"/>city,
+<pb n="28" facs="tcp:179403:19"/>and not the plenty <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Money, as prejudical to a Ba<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> For the Bank and the Project propoſe in the ſaid Treatiſe are intended for qu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> different Ends, and ſerve for quite diffe<g ref="char:EOLhyphen"/>rent Uſes. The Bank being intend<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for receiving Money <hi>in ſpecie</hi> from Tr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ding Perſons, and delivering out Not<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to them for their Conveniencie, it being eaſier for 'em to Exchange a few Paper than to tell over vaſt Summs of Money in which they are Subject to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> overſeen at Receipt or Delivery, bot<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as to the Quantity and Quality. And on the other hand, the Bank is ready Fund to anſwer the preſſing occ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſions of Merchants or others, who a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thereby preſently provided with wha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sums they pleaſe for a ſhort time, upo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> good Security, ſo that there is no nee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for them to keep Summs of Money by them, but may beſtow it whenever they can do it to advantage, ſeing they may depend upon the Bank for Money to ſatisfie their Creditors at a Choak. B<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the deſign of theſe Notes propoſed a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="29" facs="tcp:179403:19"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t ſupplying every one who can give <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>fficient Security, either by Morgages <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> otherwiſe, with what Sums they want <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Traffick with or imploy in Manufa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tures, thereby to be improven ſo as the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orrower may make profit to himſelf, beſides the Intereſt, which he is obliged to pay to the Managers of the National <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tock propoſed, and herein <hi>I</hi> ſhould willingly oblige the Bank, that no per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on Borrowing from the ſaid Managers, ſhould be permitted to Repay it till he keept the ſame a Year, two or three at caſt, for it is not the intereſt of the ſaid office to lend Money for a ſhort time; <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t that <hi>I</hi> may Proſecute this a little <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther, the promoting of a National Stock in the Terms propoſed, will ex<g ref="char:EOLhyphen"/>ceedingly advance the Bank, for not only may the Proprietars of it, receive <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> much benefit by taking in, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ving out of the National Stock Notes, as they would do of the like <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alue of Gold or Silver, if the ſame were immediatly produced; But if they ſhould think that Merchants and Fact<g ref="char:EOLhyphen"/>ors
+<pb n="30" facs="tcp:179403:20"/>having theſe Notes tranſmitted them, would not trouble themſelves give in theſe to the Bank, and take <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Bank Notes, yet ſuch as have Mo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>lying by them, (for ſo I call theſe Note<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and cannot immediatly beſtow it to ad<g ref="char:EOLhyphen"/>vantage or ſecure it in good Hands, w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be ſatisfied to give it in to the Ban<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> till they find how to diſpoſe of it, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> on the other hand, others upon preſſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> occaſions will borrow the ſame to ſat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>fie their Creditors at a Junctur; And fa<g ref="char:EOLhyphen"/>ther theſe Notes will gradually decre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo that in 25 years they will be all Ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cel'd, and as much Silver or Gold C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in their Room, meerly by the Annu<g ref="char:EOLhyphen"/>rents payed to the National Stock <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>fice, even beſides a third part allow for Expence of Management, and oth<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Contingencys, and what is made <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the improvement of thoſe who are t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Borrowers: From all which 'tis m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> evident, the Nation cannot but be gre<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ly Enriched, and as Money encreaſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Bank muſt proportionably be adva<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ced, otherwiſe the Bank of <hi>Engla<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> ſhould be of leſs value than the Ba<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Scotland,</hi> and the Bank of <hi>Amſterd<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <pb n="31" facs="tcp:179403:20"/>than either. And if I might ask a Que<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tion at our Banke<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, I could be ſatiſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed to know whether they have more <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ain by a dozen or 20 Merchants, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onſiderable Trading Men in <hi>Edin<g ref="char:EOLhyphen"/>burgh,</hi> or by 100 or 200 meaner ſort of Shop- keepers and Pedlers, and if they ſay the firſt, I would fain know why the laſt might not advance their Inter<g ref="char:EOLhyphen"/>eſt proportionable to their Number, if they were as rich, of which they would ſeem to be afrayed, when they ſpeak a<g ref="char:EOLhyphen"/>gainſt the project propoſed. If it were not for ſwelling this to too large a pro<g ref="char:EOLhyphen"/>portion, I might add ſeveral things to ſhew the Groundleſsneſs, (not to ſay <hi>Rediculouſneſs</hi>) of our Bankers objection.</p>
+            <p>To conclude, I ſhall be no fatther <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edious to your Grace &amp; the Honourable Eſtates, ſave only to put you in mind, that in the foreſaid Treatiſe, beſides the project for raiſing a Fund of Credit, there are ſeveral things propoſed for im<g ref="char:EOLhyphen"/>provement of Manufactures, providing for the Poor, and ſeveral other things, which I hope may not be altogether un<g ref="char:EOLhyphen"/>worthy of your Thoughts; as likewiſe
+<pb n="32" facs="tcp:179403:21" rendition="simple:additions"/>an Overture for Suppreſſing of Vice a Idleneſs, which I gave in by it ſelf moſt of the Honourable Members Parliament; Wherein I humbly rep<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſent, that the E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecting of an Office each Burgh, and in each Pariſh in t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Country, for Recording the Names of a Inhabitants, and Certificats of thoſe w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> remove from one place to another; a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that ſome honeſt Men may be appoint<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to Viſit each family therein Monthly, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to make report to the ſaid Office, ea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in his reſpective Bounds, whether the be any Perſons reſiding there, who ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not give ſatisfying Accounts of the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſelves, to the intent they may be de<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with according to their Merit, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which if your Wiſdoms think fit to co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſider, I hope you will find ſeve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> things propoſed, which may be of go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> uſe. That you may with unanim<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and Concord proceed, and Act in th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Seſſion of Parliament as with one ſho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>der, in promoving the wellfare of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> poor Nation, ſhall be the earneſt Pra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ers of</p>
+            <closer>
+               <signed>
+                  <hi>Your Grace, Lordſhips and Honours <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Humble and Obediant Servant</hi>
+Ja: Donaldſon</signed>
+            </closer>
+            <pb facs="tcp:179403:21"/>
+         </div>
+      </body>
+   </text>
+</TEI>
